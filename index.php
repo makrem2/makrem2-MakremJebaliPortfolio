@@ -109,7 +109,7 @@
 
               <div class="custom-btn-group mt-4">
                 <a
-                  href="https://drive.google.com/file/d/1JKqxGL_nXw60tceATXdb_MIlDdT19adv/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1ck02aKj2tUyVdXHVoSCU6IVfgj-alfAB/view?usp=sharing"
                   target="_blank"
                   download="cv"
                   class="btn mr-lg-2 custom-btn"
